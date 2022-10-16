@@ -112,8 +112,8 @@ def test_validator(input_dictionary_data):
    assert Validator.maxlength("Sulav",10,"name")==None
    assert Validator.minimum(22,0,"age")==None
    assert Validator.maximum(22,150,"age")==None
-
-
+   
+   #Fail Case
    assert Validator.type1(True,str,"name")== False
    assert Validator.minlength("Sul",4,"name")==False
    assert Validator.maxlength("SulavThapaChhetri",10,"name")==False
