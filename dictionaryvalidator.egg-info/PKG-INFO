@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: dictionaryvalidator
+Version: 1.0.0
+Summary: This is a dictionary validator package.
+Author: Sulav
+
+This package invokes a dictionary validator function which takes both input dictionary and it's validation dictionary and determines whether the dictionary is valid or not

@@ -1,0 +1,7 @@
+setup.py
+dictionaryvalidator/__init__.py
+dictionaryvalidator/validator.py
+dictionaryvalidator.egg-info/PKG-INFO
+dictionaryvalidator.egg-info/SOURCES.txt
+dictionaryvalidator.egg-info/dependency_links.txt
+dictionaryvalidator.egg-info/top_level.txt
